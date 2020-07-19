@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "chmod +x ./generate-output.sh && ./generate-output.sh"
+  }
+}
