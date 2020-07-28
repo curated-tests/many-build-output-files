@@ -1,5 +1,5 @@
 {
-  "name": "my-fresh-test",
+  "name": "my-fresh-tests",
   "scripts": {
     "build": "chmod +x ./generate-output.sh && ./generate-output.sh"
   }
